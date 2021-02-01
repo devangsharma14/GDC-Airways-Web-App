@@ -1,0 +1,64 @@
+#logo{
+	width: 40px;
+	height:40px;
+	display: inline;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+
+.navbar-brand{
+	font-family: Paytone One;
+
+}
+
+#usernameSignUp{
+	margin-left: 9.9%;
+}
+
+#email{
+	margin-left: 12.1%;
+}
+
+#passSignUp{
+	margin-left: 10.1%;
+}
+
+#messagecheck1, #messagecheck2{
+	color: red;
+}
+
+.messageCheck{
+	color: red;
+}
+
+.hsty{
+	margin-left: 23.5%;
+	color:white;
+}
+
+th,td{
+	text-align: center;
+	border-color: white;
+}
+
+table{
+	text-align: center;
+	margin:auto; 
+	color: white;
+
+}
+
+#t1{
+	margin-bottom: 110px;
+}
+
+#he1{
+	margin-top: 75px;
+}
+
+body{
+	background:url(levi-guzman-1077831-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}

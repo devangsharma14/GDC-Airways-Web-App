@@ -1,0 +1,78 @@
+body{
+	background: url(marko-pekic-145777-unsplash.jpg);
+	background-size: 100% 600px;
+	background-repeat: no-repeat;
+}
+
+#first{
+	margin-top: 25%;
+	margin-left: 2.5%;
+	float: left;
+	width:45%;
+	padding-left: 15px;
+	padding-right:15px;
+	font-size: 21px;
+	font-family: Helvetica ;
+	color: black;
+}
+
+#space{
+	margin-left: 70px;
+}
+
+#space2{
+	margin-bottom: 10px;
+}
+
+#second{
+	margin-top: 25%;
+	float: right;
+	width: 45%;
+	margin-right: 2.5%;
+	padding-left: 15px;
+	padding-right:15px;
+	color: black;
+	font-size: 21px;
+	font-family: Helvetica ;
+}
+
+.navbar-brand{
+	font-family: Paytone One;
+
+}
+
+hr{
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+#logo{
+	width: 40px;
+	height:40px;
+	display: inline;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+
+h1{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 20%;
+	font-family: Kaushan Script;
+	font-size: 75px;
+	color: white;
+}
+
+#username{
+	margin-left: 9.9%;
+}
+
+#email{
+	margin-left: 12.1%;
+}
+
+#pass{
+	margin-left: 10.1%;
+}

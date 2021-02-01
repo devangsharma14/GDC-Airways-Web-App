@@ -1,0 +1,78 @@
+#logo{
+	width: 40px;
+	height:40px;
+	display: inline;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+
+.navbar-brand{
+	font-family: Paytone One;
+
+}
+
+#usernameSignUp{
+	margin-left: 9.9%;
+}
+
+#email{
+	margin-left: 12.1%;
+}
+
+#passSignUp{
+	margin-left: 10.1%;
+}
+
+#messagecheck1, #messagecheck2{
+	color: red;
+}
+
+.messageCheck{
+	color: red;
+}
+
+#fsty{
+	margin: 5% auto;
+}
+
+label{
+	margin: 1.5% auto;
+	color: white;
+}
+
+body{
+	background:url(drew-colins-1114447-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#name{
+	margin-left: 25px;
+	width: 200px;
+}
+
+#male{
+	margin-left: 30px;
+}
+
+#female{
+	margin-left: 13px;
+}
+
+#DOB{
+	margin-left: 35px;
+	width: 200px;
+}
+
+#mobno{
+	width: 200px;
+}
+
+#eml{
+	margin-left: 30px;
+	width: 200px;
+}
+
+
+
