@@ -27,5 +27,5 @@ https://youtu.be/4ColvwzCDp0
 * Clone this repository
 * Create a new Folder in xampp/htdocs/dashboard/
 * Paste all the files in the new folder
-* run Xampp server
+* Run Xampp server
 * Ping locahost/dashboard/new_folder_name
